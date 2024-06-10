@@ -1,0 +1,16 @@
+{
+    "name": "acf/team-member",
+    "title": "Team Member",
+    "description": "Display a team member in a card",
+    "category": "leonardo-vite",
+    "icon": "admin-users",
+    "apiVersion": 2,
+    "keywords": ["team", "member"],
+    "acf": {
+        "mode": "preview",
+        "renderTemplate": "team-member.php"
+    },
+    "supports": {
+        "anchor": true
+    }
+}

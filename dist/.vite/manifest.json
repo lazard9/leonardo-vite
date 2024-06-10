@@ -1,0 +1,23 @@
+{
+  "assets/js/main.js": {
+    "file": "main.js",
+    "name": "main",
+    "src": "assets/js/main.js",
+    "isEntry": true
+  },
+  "assets/sass/style.scss": {
+    "file": "style.css",
+    "src": "assets/sass/style.scss",
+    "isEntry": true
+  },
+  "assets/sass/tailwind.scss": {
+    "file": "tailwind.css",
+    "src": "assets/sass/tailwind.scss",
+    "isEntry": true
+  },
+  "assets/sass/woocommerce.scss": {
+    "file": "woocommerce.css",
+    "src": "assets/sass/woocommerce.scss",
+    "isEntry": true
+  }
+}

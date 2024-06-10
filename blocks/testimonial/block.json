@@ -1,0 +1,16 @@
+{
+    "name": "acf/testimonial",
+    "title": "Testimonial",
+    "description": "A custom testimonial block.",
+    "category": "leonardo-vite",
+    "icon": "testimonial",
+    "apiVersion": 2,
+    "keywords": ["testimonial"],
+    "acf": {
+        "mode": "preview",
+        "renderTemplate": "testimonial.php"
+    },
+    "supports": {
+        "anchor": true
+    }
+}

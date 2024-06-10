@@ -1,0 +1,35 @@
+{
+    "name": "leonardo-vitevite",
+    "version": "1.0.0",
+    "description": "[![Build Status](https://travis-ci.org/Automattic/_s.svg?branch=master)](https://travis-ci.org/Automattic/_s)",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "NODE_ENV=development vite build --mode=development",
+        "prod": "NODE_ENV=production vite build --mode=production",
+        "watch": "node watch-and-build.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "autoprefixer": "^10.4.19",
+        "browser-sync": "^3.0.2",
+        "chokidar": "^3.6.0",
+        "postcss": "^8.4.38",
+        "sass": "^1.77.4",
+        "tailwindcss": "^3.4.3",
+        "vite": "^5.2.12",
+        "vite-plugin-browser-sync": "^3.0.3"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://opensource.org/licenses/MIT"
+        }
+    ],
+    "dependencies": {
+        "tslib": "^2.6.3"
+    }
+}
